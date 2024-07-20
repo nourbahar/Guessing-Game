@@ -78,7 +78,9 @@ Good luck and have fun!
 
 ## Example Repository Structure
 
+```
 guessing-game/
   ├── index.html
   ├── styles.css
-  └── script.js
+  └── app.js
+```
