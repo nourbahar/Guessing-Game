@@ -33,7 +33,7 @@ Welcome to the Guessing Game project! This is a test designed to assess your ski
 
 ### User Story 4: Number of Attempts
 
-**As a user, I want to know how many attempts I have made, so I can keep track of my progress.**
+**As a user, I want to know how many attempts I have made, so I can keep track of my progress. MAXIMUN - 10 ATTEMPTS**
 
 **Acceptance Criteria:**
 
